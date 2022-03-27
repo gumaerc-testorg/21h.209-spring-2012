@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: 'Galbraith, The Great Crash '
 uid: 7fcead60-0a0b-e37c-c1bc-6818b92a376e

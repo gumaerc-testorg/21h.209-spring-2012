@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: "Reading Questions for Down and Out \u2013 II "
 uid: b2c965e4-de70-208a-6ed7-39de076a8a42

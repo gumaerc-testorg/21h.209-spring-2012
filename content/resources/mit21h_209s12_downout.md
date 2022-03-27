@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: 'Down and Out in the Great Depression: Letters from the Forgotten Man '
 uid: 9701bf03-f0e7-872c-ec25-737e16a181f0

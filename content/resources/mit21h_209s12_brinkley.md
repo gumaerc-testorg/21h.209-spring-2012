@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: 'Brinkley, Voices of Protest and Polenberg '
 uid: 40e549ee-96ad-8b76-0582-278a513777fd

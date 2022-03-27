@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: Blum, part II
 uid: e03a6810-1a18-d48f-11fa-1f2c9fd1e0b0
