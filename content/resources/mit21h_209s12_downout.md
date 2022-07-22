@@ -6,6 +6,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/9701bf03f0e7872
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Down and Out in the Great Depression: Letters from the Forgotten Man '
 uid: 9701bf03-f0e7-872c-ec25-737e16a181f0
 ---
 This resource contains information about down and out in the great depression: letters from the forgotten man.
-

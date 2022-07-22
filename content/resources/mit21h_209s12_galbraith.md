@@ -5,6 +5,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/7fcead600a0be37
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Galbraith, The Great Crash '
 uid: 7fcead60-0a0b-e37c-c1bc-6818b92a376e
 ---
 This resource contains information about galbraith, the great crash.
-

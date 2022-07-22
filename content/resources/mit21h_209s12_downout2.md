@@ -6,6 +6,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/b2c965e4de70208
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Reading Questions for Down and Out \u2013 II "
 uid: b2c965e4-de70-208a-6ed7-39de076a8a42
 ---
 Reading questions on "Down and Out in the Great Depression" by Robert McElvaine.
-

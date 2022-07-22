@@ -5,6 +5,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/e03a68101a18d48
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Blum, part II
 uid: e03a6810-1a18-d48f-11fa-1f2c9fd1e0b0
 ---
 This resource contains information about blum, part II.
-

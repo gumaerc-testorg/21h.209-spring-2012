@@ -6,6 +6,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/09a35ce27575092
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Brinkley, Voices of Protest and Polenberg, part II '
 uid: 09a35ce2-7575-0923-007d-18e5553eda54
 ---
 This resource contains information about brinkley, voices of protest and polenberg, part II.
-

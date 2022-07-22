@@ -5,6 +5,7 @@ file: /courses/21h-209-america-in-depression-and-war-spring-2012/fa950c1f7fa84fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Terkel, Dower, Blum, part III '
 uid: fa950c1f-7fa8-4fd0-6623-45dd3d10b4ea
 ---
 This resource contains information about terkel, dower, blum, part III.
-
