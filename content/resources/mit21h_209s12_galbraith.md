@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about galbraith, the great crash.
-file: /courses/21h-209-america-in-depression-and-war-spring-2012/7fcead600a0be37cc1bc6818b92a376e_MIT21H_209S12_galbraith.pdf
+file: /ol-ocw-studio-app/courses/21h-209-america-in-depression-and-war-spring-2012/7fcead600a0be37cc1bc6818b92a376e_MIT21H_209S12_galbraith.pdf
 file_size: 32341
 file_type: application/pdf
 learning_resource_types:

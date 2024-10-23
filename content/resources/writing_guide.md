@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding writing guide.
-file: /courses/21h-209-america-in-depression-and-war-spring-2012/d8c224743a2bb8855e163aee695dc95d_writing_guide.pdf
+file: /ol-ocw-studio-app/courses/21h-209-america-in-depression-and-war-spring-2012/d8c224743a2bb8855e163aee695dc95d_writing_guide.pdf
 file_size: 17961
 file_type: application/pdf
 learning_resource_types:
