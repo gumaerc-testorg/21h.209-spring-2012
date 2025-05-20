@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about brinkley, voices of protest
   and polenberg, part II.
-file: /ol-ocw-studio-app/courses/21h-209-america-in-depression-and-war-spring-2012/09a35ce275750923007d18e5553eda54_MIT21H_209S12_brinkley2.pdf
+file: /courses/21h-209-america-in-depression-and-war-spring-2012/09a35ce275750923007d18e5553eda54_MIT21H_209S12_brinkley2.pdf
 file_size: 31045
 file_type: application/pdf
 learning_resource_types:
