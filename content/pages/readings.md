@@ -9,9 +9,9 @@ title: Readings
 uid: 0215a6a0-aa7c-f886-06a7-7c8dec7eafbf
 ---
 
-\[Galbraith\] = Galbraith, John Kenneth. _The Great Crash of 1929_. Mariner Books, 1997. ISBN: 9780395859995. \[Preview with {{% resource_link "b1f4cd0b-7663-4f86-a63a-d944acfbcf3f" "Google Books" %}}\]
+\[Galbraith\] = Galbraith, John Kenneth. _The Great Crash of 1929_. Mariner Books, 1997. ISBN: 9780395859995. \[Preview with [Google Books](http://books.google.com/books?id=l-xRKtKEpTwC&pg=PAfrontcover#v=onepage)\]
 
-\[McElvaine\] = McElvaine, Robert. _Down and Out in the Great Depression_. The University of North Carolina Press, 2007. ISBN: 9780807858912. \[Preview with {{% resource_link "456fd8bd-3289-4de8-bfc2-8126a1e112cc" "Google Books" %}}\]
+\[McElvaine\] = McElvaine, Robert. _Down and Out in the Great Depression_. The University of North Carolina Press, 2007. ISBN: 9780807858912. \[Preview with [Google Books](http://books.google.com/books?id=TlujOWvpweYC&pg=PAfrontcover#v=onepage)\]
 
 \[Brinkley\] = Brinkley, Alan. _Voices of Protest_. Vintage, 1983. ISBN: 9780394716282.
 
